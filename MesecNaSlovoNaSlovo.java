@@ -21,13 +21,14 @@ public class Zadatak_2_0206 {
 			System.out.println("3");
 			break;
 		case "februar":
-		case "avgust":
 		case "septembar":
 		case "oktobar":
 		case "novembar":
 		case "decembar":
 			System.out.println("1");
 			break;
+		case "avgust":
+		case "april":
 		case "mart":
 		case "maj":
 			System.out.println("2");
